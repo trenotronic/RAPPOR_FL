@@ -1,0 +1,21 @@
+{
+    "group_name": "illicit",
+    "members": [
+        "marijuana",
+        "cocaine",
+        "crack",
+        "heroin",
+        "methamphetamine",
+        "inhalants",
+        "hallucinogens"
+    ],
+    "n": 173729,
+    "prevalence": 0.24872646478135488,
+    "B": 30,
+    "alpha": 0.7,
+    "max_depth": 4,
+    "epsilon": 1.0,
+    "js_global": 0.4409028347578777,
+    "sim_baseline_rappor": 1.0,
+    "sim_baseline_dpseg": 1.0
+}

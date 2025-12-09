@@ -1,0 +1,19 @@
+{
+    "group_name": "prescription_misuse",
+    "members": [
+        "opioid_misuse",
+        "tranquilizer_misuse",
+        "sedative_misuse",
+        "stimulant_misuse",
+        "pain_reliever_misuse"
+    ],
+    "n": 173729,
+    "prevalence": 0.3195033644354138,
+    "B": 30,
+    "alpha": 0.7,
+    "max_depth": 4,
+    "epsilon": 10.0,
+    "js_global": 0.4003606511606134,
+    "sim_baseline_rappor": 1.0,
+    "sim_baseline_dpseg": 1.0
+}
