@@ -1,0 +1,10 @@
+{
+    "drug": "marijuana",
+    "n": 173729,
+    "prevalence": 0.2363278439408504,
+    "B": 30,
+    "alpha": 0.7,
+    "max_depth": 4,
+    "sim_baseline_rappor": 0.19047619047619047,
+    "sim_baseline_dpseg": 0.21739130434782608
+}

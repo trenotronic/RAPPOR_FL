@@ -1,0 +1,186 @@
+{
+    "type": "node",
+    "feature": 0,
+    "threshold": 46.5,
+    "samples": 121610,
+    "left": {
+        "type": "node",
+        "feature": 0,
+        "threshold": 0.5,
+        "samples": 6522,
+        "left": {
+            "type": "leaf",
+            "samples": 59,
+            "value": [
+                [
+                    0.7796610169491526,
+                    0.22033898305084745
+                ]
+            ]
+        },
+        "right": {
+            "type": "node",
+            "feature": 0,
+            "threshold": 1.5,
+            "samples": 6463,
+            "left": {
+                "type": "leaf",
+                "samples": 402,
+                "value": [
+                    [
+                        0.8756218905472637,
+                        0.12437810945273632
+                    ]
+                ]
+            },
+            "right": {
+                "type": "node",
+                "feature": 0,
+                "threshold": 38.0,
+                "samples": 6061,
+                "left": {
+                    "type": "leaf",
+                    "samples": 5049,
+                    "value": [
+                        [
+                            0.8447217270746683,
+                            0.15527827292533175
+                        ]
+                    ]
+                },
+                "right": {
+                    "type": "leaf",
+                    "samples": 1012,
+                    "value": [
+                        [
+                            0.8606719367588933,
+                            0.13932806324110672
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    "right": {
+        "type": "node",
+        "feature": 0,
+        "threshold": 63.5,
+        "samples": 115088,
+        "left": {
+            "type": "node",
+            "feature": 0,
+            "threshold": 61.5,
+            "samples": 2183,
+            "left": {
+                "type": "node",
+                "feature": 0,
+                "threshold": 48.5,
+                "samples": 2060,
+                "left": {
+                    "type": "leaf",
+                    "samples": 174,
+                    "value": [
+                        [
+                            0.7873563218390804,
+                            0.21264367816091953
+                        ]
+                    ]
+                },
+                "right": {
+                    "type": "leaf",
+                    "samples": 1886,
+                    "value": [
+                        [
+                            0.8297985153764581,
+                            0.1702014846235419
+                        ]
+                    ]
+                }
+            },
+            "right": {
+                "type": "node",
+                "feature": 0,
+                "threshold": 62.5,
+                "samples": 123,
+                "left": {
+                    "type": "leaf",
+                    "samples": 82,
+                    "value": [
+                        [
+                            0.7439024390243902,
+                            0.25609756097560976
+                        ]
+                    ]
+                },
+                "right": {
+                    "type": "leaf",
+                    "samples": 41,
+                    "value": [
+                        [
+                            0.7317073170731707,
+                            0.2682926829268293
+                        ]
+                    ]
+                }
+            }
+        },
+        "right": {
+            "type": "node",
+            "feature": 0,
+            "threshold": 1629.5,
+            "samples": 112905,
+            "left": {
+                "type": "node",
+                "feature": 0,
+                "threshold": 64.5,
+                "samples": 112112,
+                "left": {
+                    "type": "leaf",
+                    "samples": 181,
+                    "value": [
+                        [
+                            0.8784530386740331,
+                            0.12154696132596685
+                        ]
+                    ]
+                },
+                "right": {
+                    "type": "leaf",
+                    "samples": 111931,
+                    "value": [
+                        [
+                            0.836863782151504,
+                            0.16313621784849594
+                        ]
+                    ]
+                }
+            },
+            "right": {
+                "type": "node",
+                "feature": 0,
+                "threshold": 1632.5,
+                "samples": 793,
+                "left": {
+                    "type": "leaf",
+                    "samples": 428,
+                    "value": [
+                        [
+                            0.8060747663551402,
+                            0.1939252336448598
+                        ]
+                    ]
+                },
+                "right": {
+                    "type": "leaf",
+                    "samples": 365,
+                    "value": [
+                        [
+                            0.8191780821917808,
+                            0.18082191780821918
+                        ]
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "type": "node",
+    "feature": 0,
+    "threshold": 1.5,
+    "samples": 121610,
+    "left": {
+        "type": "node",
+        "feature": 0,
+        "threshold": 0.5,
+        "samples": 29979,
+        "left": {
+            "type": "leaf",
+            "samples": 25550,
+            "value": [
+                [
+                    0.84,
+                    0.16
+                ]
+            ]
+        },
+        "right": {
+            "type": "leaf",
+            "samples": 4429,
+            "value": [
+                [
+                    0.8507563784149921,
+                    0.1492436215850079
+                ]
+            ]
+        }
+    },
+    "right": {
+        "type": "node",
+        "feature": 0,
+        "threshold": 8.5,
+        "samples": 91631,
+        "left": {
+            "type": "node",
+            "feature": 0,
+            "threshold": 2.5,
+            "samples": 34666,
+            "left": {
+                "type": "leaf",
+                "samples": 3962,
+                "value": [
+                    [
+                        0.8268551236749117,
+                        0.17314487632508835
+                    ]
+                ]
+            },
+            "right": {
+                "type": "node",
+                "feature": 0,
+                "threshold": 3.5,
+                "samples": 30704,
+                "left": {
+                    "type": "leaf",
+                    "samples": 4461,
+                    "value": [
+                        [
+                            0.840842860345214,
+                            0.15915713965478592
+                        ]
+                    ]
+                },
+                "right": {
+                    "type": "leaf",
+                    "samples": 26243,
+                    "value": [
+                        [
+                            0.8314979232557254,
+                            0.16850207674427467
+                        ]
+                    ]
+                }
+            }
+        },
+        "right": {
+            "type": "node",
+            "feature": 0,
+            "threshold": 27.5,
+            "samples": 56965,
+            "left": {
+                "type": "node",
+                "feature": 0,
+                "threshold": 11.5,
+                "samples": 49953,
+                "left": {
+                    "type": "leaf",
+                    "samples": 13408,
+                    "value": [
+                        [
+                            0.8420346062052506,
+                            0.15796539379474941
+                        ]
+                    ]
+                },
+                "right": {
+                    "type": "leaf",
+                    "samples": 36545,
+                    "value": [
+                        [
+                            0.8379258448488165,
+                            0.16207415515118348
+                        ]
+                    ]
+                }
+            },
+            "right": {
+                "type": "node",
+                "feature": 0,
+                "threshold": 28.5,
+                "samples": 7012,
+                "left": {
+                    "type": "leaf",
+                    "samples": 196,
+                    "value": [
+                        [
+                            0.8214285714285714,
+                            0.17857142857142858
+                        ]
+                    ]
+                },
+                "right": {
+                    "type": "leaf",
+                    "samples": 6816,
+                    "value": [
+                        [
+                            0.8289319248826291,
+                            0.1710680751173709
+                        ]
+                    ]
+                }
+            }
+        }
+    }
+}
