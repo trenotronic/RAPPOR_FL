@@ -1,0 +1,12 @@
+{
+    "drug": "tobacco",
+    "n": 173729,
+    "prevalence": 0.16289163006751894,
+    "B": 30,
+    "alpha": 0.7,
+    "max_depth": null,
+    "epsilon": 10.0,
+    "js_global": 0.4003606511606134,
+    "sim_baseline_rappor": 0.6681350954478708,
+    "sim_baseline_dpseg": 0.022673964034401875
+}

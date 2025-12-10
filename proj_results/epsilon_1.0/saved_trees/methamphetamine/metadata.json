@@ -1,0 +1,12 @@
+{
+    "drug": "methamphetamine",
+    "n": 173729,
+    "prevalence": 0.008593844435874264,
+    "B": 30,
+    "alpha": 0.7,
+    "max_depth": null,
+    "epsilon": 1.0,
+    "js_global": 0.4409028347578777,
+    "sim_baseline_rappor": 0.592831541218638,
+    "sim_baseline_dpseg": 0.02107728337236534
+}

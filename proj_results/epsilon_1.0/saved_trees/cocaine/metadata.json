@@ -1,0 +1,12 @@
+{
+    "drug": "cocaine",
+    "n": 173729,
+    "prevalence": 0.019357735323405994,
+    "B": 30,
+    "alpha": 0.7,
+    "max_depth": null,
+    "epsilon": 1.0,
+    "js_global": 0.4409028347578777,
+    "sim_baseline_rappor": 0.5982658959537572,
+    "sim_baseline_dpseg": 0.022745098039215685
+}
