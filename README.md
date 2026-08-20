@@ -1,9 +1,9 @@
 
-# CS 323 – Final Project: From RAPPOR Noise to Usable Structure: Privacy-Preserving Decision Trees
+# From RAPPOR Noise to Usable Structure: Privacy-Preserving Decision Trees
 
 **Author:** Bach Nguyen, Tren Meckel
 
-This repository contains the full implementation and experimental results for the **CS 323 Final Project: From RAPPOR Noise to Usable Structure: Privacy-Preserving Decision Trees**, focusing on **RAPPOR**, **segmentation-based coarsening**, and **federated decision-tree evaluation**. The project analyzes how strong LDP affects predictive modeling for drug-use outcomes using the NSDUH 2021–2023 public-use dataset.
+This repository contains the full implementation and experimental results for the **From RAPPOR Noise to Usable Structure: Privacy-Preserving Decision Trees**, focusing on **RAPPOR**, **segmentation-based coarsening**, and **federated decision-tree evaluation**. The project analyzes how strong LDP affects predictive modeling for drug-use outcomes using the NSDUH 2021–2023 public-use dataset.
 
 We benchmark three pipelines:
 
