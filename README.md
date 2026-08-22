@@ -55,7 +55,7 @@ Experiments are conducted under **four privacy budgets**:
 │       └── Previous experimental results
 │
 ├── paper/
-│   └── Research paper and supporting materials
+│   └── Final research paper
 │
 ├── requirements.txt
 │   └── Python dependencies
