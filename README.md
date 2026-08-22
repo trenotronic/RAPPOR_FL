@@ -34,48 +34,41 @@ You can paste this **directly into your README.md** under the *Project Structure
 
 ---
 
-## **Project Structure**
-
-The repository contains the full code pipeline, results, and all generated figures:
+## Repository Structure
 
 ```text
-Final_RAPPOR_FL.ipynb        # Main notebook containing full implementation
-README.md                    # Project documentation
-NSDUH_2021_2023_Tab.txt      # Combined NSDUH 2021–2023 dataset (tab-delimited)
-requirements.txt             # Text file containing names of non-native Python libraries needed to run the code
-
-figures/                     # All figures used in the final paper
-├── cocaine/
-├── crack/
-├── hallucinogens/
-├── heroin/
-├── inhalants/
-├── marijuana/
-├── methamphetamine/
-├── nicotine_vaping/
-├── opioid_misuse/
-├── pain_reliever_misuse/
-├── sedative_misuse/
-├── stimulant_misuse/
-├── tobacco/
-├── tranquilizer_misuse/
-├── structure_similarity/    # Cross-epsilon tree similarity plots
-└── summary/                 # Aggregate visualizations & global distortion figures
-
-proj_results/                # Model artifacts and resolution-sweep outputs
-├── epsilon_1.0/
-│   ├── saved_trees/         # JSON tree structures + joblib models
-│   │   ├── marijuana/
-│   │   ├── cocaine/
-│   │   ├── ../              # Other drugs
-│   │   └── groups/
-│   └── resolution_sweep/
-│       ├── per_drug/        # F1, MI, JS vs. K for each outcome
-│       ├── overall/         # Combined privacy–utility summaries
-│       └── groups/          # Drug-group outcomes (illicit, nicotine, prescription)
-├── epsilon_3.0/
-├── epsilon_5.0/
-└── epsilon_10.0/
+├── data/
+│   └── NSDUH_2021_2023_subset_raw.csv
+│       └── Source data subset used for the analysis
+│
+├── notebooks/
+│   ├── Final_RAPPOR_FL.ipynb
+│   │   └── Main implementation and experimental analysis
+│   │
+│   └── archive/
+│       └── Previous experimental notebooks
+│
+├── results/
+│   ├── epsilon_1.0/
+│   ├── epsilon_3.0/
+│   ├── epsilon_5.0/
+│   ├── epsilon_10.0/
+│   │   └── Privacy–utility and model results for each ε value
+│   │
+│   ├── figures/
+│   │   └── Experimental visualizations and summary figures
+│   │
+│   └── archive/
+│       └── Previous experimental results
+│
+├── paper/
+│   └── Research paper and supporting materials
+│
+├── requirements.txt
+│   └── Python dependencies
+│
+└── README.md
+    └── Project documentation
 ```
 
 ### **Notes on the `figures/` Directory**
