@@ -29,13 +29,6 @@ Experiments are conducted under **four privacy budgets**:
 
 ## **Repository Structure**
 
-Here is an **updated README section** that cleanly incorporates the new `figures/` directory into the repository structure.
-You can paste this **directly into your README.md** under the *Project Structure* section.
-
----
-
-## Repository Structure
-
 ```text
 ├── data/
 │   └── NSDUH_2021_2023_subset_raw.csv
