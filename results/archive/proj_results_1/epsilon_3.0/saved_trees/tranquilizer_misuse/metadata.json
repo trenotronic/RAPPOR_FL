@@ -1,0 +1,12 @@
+{
+    "drug": "tranquilizer_misuse",
+    "n": 173729,
+    "prevalence": 0.09864213804258357,
+    "B": 30,
+    "alpha": 0.7,
+    "max_depth": null,
+    "epsilon": 3.0,
+    "js_global": 0.4052837335586774,
+    "sim_baseline_rappor": 0.6553755522827688,
+    "sim_baseline_dpseg": 0.022816679779701022
+}

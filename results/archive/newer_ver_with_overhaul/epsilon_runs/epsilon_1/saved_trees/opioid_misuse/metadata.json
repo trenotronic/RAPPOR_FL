@@ -1,0 +1,12 @@
+{
+    "drug": "opioid_misuse",
+    "n": 173729,
+    "prevalence": 0.22239810279227992,
+    "B": 30,
+    "alpha": 0.7,
+    "max_depth": 4,
+    "epsilon": 1.0,
+    "js_global": 0.4409028347578777,
+    "sim_baseline_rappor": 1.0,
+    "sim_baseline_dpseg": 1.0
+}

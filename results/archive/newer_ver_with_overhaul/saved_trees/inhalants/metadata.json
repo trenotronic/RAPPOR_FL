@@ -1,0 +1,10 @@
+{
+    "drug": "inhalants",
+    "n": 173729,
+    "prevalence": 0.012467693937108946,
+    "B": 30,
+    "alpha": 0.7,
+    "max_depth": 4,
+    "sim_baseline_rappor": 1.0,
+    "sim_baseline_dpseg": 1.0
+}

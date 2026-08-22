@@ -1,8 +1,0 @@
-{
-  "epsilon": 3.0,
-  "Q": 0.9525741268224333,
-  "K": 128,
-  "JS_divergence": 0.09354576262602665,
-  "category_match_rate": 0.030052553114333243,
-  "category_hamming_distance": 0.9699474468856668
-}

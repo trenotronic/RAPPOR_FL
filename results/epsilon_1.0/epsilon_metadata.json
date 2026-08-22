@@ -1,0 +1,13 @@
+{
+  "epsilon": 1.0,
+  "P": 0.5,
+  "Q": 0.7310585786300049,
+  "bloom_k": 128,
+  "bloom_h": 2,
+  "f": 0.5,
+  "global_js": 0.4409028347578777,
+  "global_category_match": 0.0028838017832371107,
+  "global_category_hamming": 0.9971161982167629,
+  "num_drugs": 14,
+  "num_groups": 3
+}

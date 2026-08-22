@@ -1,0 +1,12 @@
+{
+    "drug": "pain_reliever_misuse",
+    "n": 173729,
+    "prevalence": 0.22173039619176993,
+    "B": 30,
+    "alpha": 0.7,
+    "max_depth": null,
+    "epsilon": 10.0,
+    "js_global": 0.4003606511606134,
+    "sim_baseline_rappor": 0.6669101533966398,
+    "sim_baseline_dpseg": 0.022568093385214007
+}
